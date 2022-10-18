@@ -1,0 +1,7 @@
+[core]
+	autocrlf = true
+[user]
+	name = jared
+	email = jared117@gachon.ac.kr
+[init]
+	defaultBranch = main
